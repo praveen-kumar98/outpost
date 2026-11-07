@@ -24,7 +24,7 @@ const bricolage = Bricolage_Grotesque({
 export const metadata: Metadata = {
   title: {
     template: "%s | Outpost",
-    default: "Outpost: Agentic Worspace",
+    default: "Outpost: Agentic Workspace",
   },
   description:
     "An AI agent that draws and writes alongside you and your team, live.",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   },
   manifest: "/manifest.json",
   openGraph: {
-    title: "Outpost: Agentic Worspace",
+    title: "Outpost: Agentic Workspace",
     description:
       "An AI agent that draws and writes alongside you and your team, live.",
     images: [
